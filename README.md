@@ -4,7 +4,9 @@
 
 RED ALERT: Amazon doesn't need reports. It needs surgical profit.
 
-This model isn't a fancy chart. It's your secret weapon to dissect billions in transactions and extract actual value. It answers the only question that matters: HOW DO WE MULTIPLY REVENUE WHILE CUTTING WASTE?
+This model isn't a fancy chart. It's your secret weapon to dissect billions in transactions and extract actual value. 
+
+It answers the only question that matters: HOW DO WE MULTIPLY REVENUE WHILE CUTTING WASTE?
 
 It links gross turnover (fact_sales and its Total_sales_2023/2024 metrics) to the profit levers:
 
@@ -14,7 +16,9 @@ It links gross turnover (fact_sales and its Total_sales_2023/2024 metrics) to th
 
 ✅ The Where/When (dim_region / dim_date): Locate the precise Continent and Day of the Week where your campaigns hit peak profitability.
 
-This isn't analysis; it's market surgery. Use this structure to focus investment where the return is guaranteed. That is how you achieve true e-commerce domination.
+This isn't analysis; it's market surgery. Use this structure to focus investment where the return is guaranteed. 
+
+That is how you achieve true e-commerce domination.
 
 <img width="1652" height="1140" alt="image" src="https://github.com/user-attachments/assets/4dad09c3-d374-4e94-a0ee-612123f56436" />
 
